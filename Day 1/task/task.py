@@ -1,2 +1,5 @@
-# Write your code below this line 👇
-print("hello world")
+print("Welcome to the Band Name Generator")
+city = input("Whats the name of the city you were born in?")
+print(city)
+pet_name = input("whats your pet name?")
+print("your band name could be " + city + " " + pet_name)
